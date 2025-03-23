@@ -11,3 +11,24 @@
 4. Положительно или отрицательно связана продолжительность жизни с привычками питания, образом жизни, физическими упражнениями, курением, употреблением алкоголя и т.д. Как влияет школьное образование на продолжительность жизни людей? 
 5. В густонаселенных странах ожидаемая продолжительность жизни, как правило, ниже?   
 6. Как влияет охват иммунизацией на ожидаемую продолжительность жизни? 
+
+### Решение
+
+1. Выявление несоответствий в сравнении с данными ВОЗ на сайте.   
+2. Обработка признаков путем заполнения пропусков и устранеия искажений.    
+3. Ответ на поставленные вопросы.
+
+### Описание файлов
+
+>__main.ipynb__ - описание признаков, их обработка, ответы на вопросы.   
+__requirements.txt__ - список используемых библиотек.   
+__Life Expectancy Data.csv__ - исходные данные.
+
+### Библиотеки
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/matplotlib-black?style=for-the-badge&logo=matplotlib"/>
+  <img src="https://img.shields.io/badge/seaborn-black?style=for-the-badge&logo=seaborn"/>
+</div>
