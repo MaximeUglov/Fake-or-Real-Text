@@ -30,5 +30,5 @@ __preds.csv__ - предсказания модели.
   <img src="https://img.shields.io/badge/seaborn-black?style=for-the-badge&logo=seaborn"/>
   <img src="https://img.shields.io/badge/sklearn-black?style=for-the-badge&logo=scikit-learn"/>
   <img src="https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch"/>
-  <img src="https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=transformers"/>
+  <img src="https://img.shields.io/badge/transformers-black?style=for-the-badge&logo=transformers"/>
 </div>
