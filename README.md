@@ -1,6 +1,6 @@
 ## Определение текста, поддельный или нет.
 
-Задание взято с сайта [kaggle](https://www.kaggle.com/competitions/fake-or-real-the-impostor-hunt/submissions)
+Задание взято с сайта [kaggle](https://www.kaggle.com/competitions/fake-or-real-the-impostor-hunt)
 
 ### Задача
 
